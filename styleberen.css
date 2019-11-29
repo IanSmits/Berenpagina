@@ -18,7 +18,7 @@ body{
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center -120px;
-	padding: 270px 20px 0px 20px;
+	padding: 290px 20px 0px 20px;
 }
 
 .main-nav a{
@@ -30,7 +30,7 @@ body{
 	text-decoration:none;
 	padding: 5px 10px;
 	position:relative;
-	top:-10px;
+	top:0px;
 	transition: top 300ms ease;
 }
 
